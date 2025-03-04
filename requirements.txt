@@ -1,0 +1,10 @@
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.1
+seaborn>=0.12.2
+requests>=2.31.0
+plotly>=5.14.0
+dash>=2.9.3
+dash-bootstrap-components>=1.4.1
+meteostat>=1.6.5
+watchdog>=3.0.0 
